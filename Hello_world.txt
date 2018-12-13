@@ -1,4 +1,4 @@
-print("Hello world")
-print("Hello flot")
-print("Hello truck")
-print("Hi")
+print("Hello world;")
+print("Hello flot;")
+print("Hello truck;")
+print("Hi;")
